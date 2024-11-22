@@ -1,0 +1,1 @@
+Algorithm Analysis Project for CmpE300 (Algorithm Analysis course) where we define a function and test it's execution time for different sized inputs, and for different input types. The best case and worst case inputs defined in the code are the result of hand-made analysis. The average input is created uniformly at random.
